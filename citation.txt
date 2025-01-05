@@ -1,0 +1,6 @@
+@article{REPO089,
+    author = "Hu, Qiang and Yi, Zhenyu and Zhou, Ying and Peng, Fang and Liu, Mei and Li, Qiang and Wang, Zhiwei",
+    journal = "arXiv preprint arXiv:2406.13532",
+    title = "{SALI: Short-term Alignment and Long-term Interaction Network for Colonoscopy Video Polyp Segmentation}",
+    year = "2024"
+}
